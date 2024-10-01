@@ -1,0 +1,166 @@
+exchange:
+  id: 'bybit'
+  api_key: 'Mj1HgQATwxQaMILqDE'
+  secret: '2ZSCiFbF8cBvpXZ0DtBEN6fYXk4q9opY3gpC'
+  options:
+    defaultType: 'linear'
+    url: 'https://api.bybit.com'
+  rate_limit: 10  # Requests per second
+  max_retries: 3
+  retry_delay: 5
+
+logging:
+  level: 'INFO'
+  file: 'trading_bot.log'
+
+data_fetcher:
+  timeframe: '1h'
+  limit: 1000
+  max_retries: 3
+  retry_delay: 5
+
+strategy:
+  atr_period: 14
+  ma_period: 50
+  fib_period: 100
+  lstm_lookback: 60
+  capital_allocation:
+    momentum: 0.4
+    mean_reversion: 0.3
+    breakout: 0.3
+
+risk_management:
+  capital: 28
+  risk_per_trade: 0.001
+  max_risk_per_trade: 0.002
+  stop_loss_pct: 0.01
+  take_profit_pct: 0.03  # Added take profit percentage
+  max_position_size: 0.02
+  max_open_positions: 2
+  var_confidence: 0.95
+  leverage: 2
+  lookback_period: 100
+  trailing_stop_pct: 0.02
+  max_drawdown_pct: 0.10
+  daily_loss_limit_pct: 0.02
+  total_loss_limit_pct: 0.05
+
+ml_predictor:
+  lookback: 30
+  n_estimators: 100
+  train_interval: 24  # Hours
+
+hft_components:
+  order_book_depth: 10
+  latency_measurement_interval: 60
+
+trading:
+  symbols:
+    - 'BTC/USDT:USDT'
+    - 'ETH/USDT:USDT'
+    - 'BNB/USDT:USDT'
+    - 'XRP/USDT:USDT'
+    - 'ADA/USDT:USDT'
+    - 'SOL/USDT:USDT'
+    - 'DOT/USDT:USDT'
+    - 'DOGE/USDT:USDT'
+    - 'AVAX/USDT:USDT'
+    - 'LINK/USDT:USDT'
+    - 'MATIC/USDT:USDT'
+    - 'UNI/USDT:USDT'
+    - 'LTC/USDT:USDT'
+    - 'ATOM/USDT:USDT'
+    - 'ETC/USDT:USDT'
+    - 'XLM/USDT:USDT'
+    - 'ALGO/USDT:USDT'
+    - 'FIL/USDT:USDT'
+    - 'VET/USDT:USDT'
+    - 'THETA/USDT:USDT'
+    - 'TRX/USDT:USDT'
+    - 'EOS/USDT:USDT'
+    - 'XTZ/USDT:USDT'
+    - 'AAVE/USDT:USDT'
+    - 'MKR/USDT:USDT'
+    - 'COMP/USDT:USDT'
+    - 'SNX/USDT:USDT'
+    - 'YFI/USDT:USDT'
+    - 'NEO/USDT:USDT'
+    - 'DASH/USDT:USDT'
+    - 'ZEC/USDT:USDT'
+    - 'BAT/USDT:USDT'
+    - 'IOTA/USDT:USDT'
+    - 'ZIL/USDT:USDT'
+    - 'KSM/USDT:USDT'
+    - 'ENJ/USDT:USDT'
+    - 'WAVES/USDT:USDT'
+    - 'SUSHI/USDT:USDT'
+    - 'CHZ/USDT:USDT'
+    - 'NEAR/USDT:USDT'
+    - 'GRT/USDT:USDT'
+    - 'EGLD/USDT:USDT'
+    - 'SAND/USDT:USDT'
+    - 'MANA/USDT:USDT'
+    - 'AXS/USDT:USDT'
+    - 'RUNE/USDT:USDT'
+    - 'FTM/USDT:USDT'
+    - 'ONE/USDT:USDT'
+    - '1INCH/USDT:USDT'
+    - 'KAVA/USDT:USDT'
+    - 'ROSE/USDT:USDT'
+    - 'DYDX/USDT:USDT'
+    - 'CRV/USDT:USDT'
+    - 'ICP/USDT:USDT'
+    - 'CELO/USDT:USDT'
+    - 'ZRX/USDT:USDT'
+    - 'ONT/USDT:USDT'
+    - 'KNC/USDT:USDT'
+    - 'QTUM/USDT:USDT'
+    - 'ICX/USDT:USDT'
+  iteration_interval: 3600
+  execution_time_window: 300
+  max_active_trades: 5  # Maximum number of active trades at once
+
+market_regime:
+  update_interval: 3600
+  lookback_period: 100
+
+correlation:
+  update_interval: 86400
+  lookback_period: 30  # Days
+
+performance_analytics:
+  update_interval: 3600
+  metrics:
+    - 'total_return'
+    - 'sharpe_ratio'
+    - 'max_drawdown'
+    - 'win_rate'
+
+backtesting:
+  start_date: '2023-01-01'
+  end_date: '2023-12-31'
+  initial_balance: 1000
+
+paper_trading:
+  enabled: false
+  initial_balance: 28
+
+monitoring:
+  max_drawdown_pct: 0.10
+  daily_loss_limit_pct: 0.02
+  total_loss_limit_pct: 0.05
+  health_check_interval: 300  # Seconds
+
+error_handling:
+  max_consecutive_errors: 5
+  cool_down_period: 600  # Seconds
+
+time_synchronization:
+  max_attempts: 5
+  retry_interval: 5  # Seconds
+
+notifications:
+  enabled: false
+  email: 'your_email@example.com'
+  telegram_bot_token: 'YOUR_TELEGRAM_BOT_TOKEN'
+  telegram_chat_id: 'YOUR_TELEGRAM_CHAT_ID'

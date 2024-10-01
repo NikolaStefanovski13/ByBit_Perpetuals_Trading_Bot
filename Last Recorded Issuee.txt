@@ -1,0 +1,184 @@
+C:\Users\nikol\AppData\Local\Programs\Python\Python312\python.exe "D:\Freelance\Hashem Trading Bot\main.py" 
+2024-08-11 20:06:21.607097: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-08-11 20:06:22.451584: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-08-11 20:06:24.226519: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+C:\Users\nikol\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\layers\rnn\rnn.py:204: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(**kwargs)
+Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399584347],server_timestamp[1723399583158],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399583158}
+Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399584347],server_timestamp[1723399583158],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399583158}
+No data available for BTC/USDT:USDT, skipping...
+Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399584907],server_timestamp[1723399583720],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399583720}
+Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399584907],server_timestamp[1723399583720],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399583720}
+No data available for ETH/USDT:USDT, skipping...
+Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399585467],server_timestamp[1723399584278],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399584278}
+Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399585467],server_timestamp[1723399584278],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399584278}
+No data available for BNB/USDT:USDT, skipping...
+Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399586027],server_timestamp[1723399584839],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399584839}
+Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399586027],server_timestamp[1723399584839],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399584839}
+No data available for XRP/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for ADA/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for SOL/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for DOT/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for DOGE/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for AVAX/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for LINK/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for MATIC/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for UNI/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for LTC/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for ATOM/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for ETC/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for XLM/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for ALGO/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for FIL/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for VET/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for THETA/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for TRX/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for EOS/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for XTZ/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for AAVE/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for MKR/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for COMP/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for SNX/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for YFI/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for NEO/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for DASH/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for ZEC/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for BAT/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for IOTA/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for ZIL/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for KSM/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for ENJ/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for WAVES/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for SUSHI/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for CHZ/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for NEAR/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for GRT/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for EGLD/USDT:USDT, skipping...
+Exchange error: bybit does not have market symbol LUNA/USDT:USDT
+Error details: bybit does not have market symbol LUNA/USDT:USDT
+No data available for LUNA/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for SAND/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for MANA/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for AXS/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for RUNE/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for FTM/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for ONE/USDT:USDT, skipping...
+An unexpected error occurred: object list can't be used in 'await' expression
+Error details: object list can't be used in 'await' expression
+No data available for 1INCH/USDT:USDT, skipping...
+Traceback (most recent call last):
+  File "C:\Users\nikol\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\nikol\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "D:\Freelance\Hashem Trading Bot\main.py", line 118, in main
+    await asyncio.sleep(config['trading']['iteration_interval'])
+  File "C:\Users\nikol\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 665, in sleep
+    return await future
+           ^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Freelance\Hashem Trading Bot\main.py", line 122, in <module>
+    asyncio.run(main())
+  File "C:\Users\nikol\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\nikol\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)

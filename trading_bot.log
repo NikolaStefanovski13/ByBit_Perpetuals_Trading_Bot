@@ -1,0 +1,470 @@
+2024-08-09 22:26:08,841 - root - INFO - Initialized bybit exchange
+2024-08-09 22:26:08,841 - root - CRITICAL - Critical error in main loop: Execution.__init__() takes 2 positional arguments but 3 were given
+2024-08-09 22:29:04,753 - root - INFO - Initialized bybit exchange
+2024-08-09 22:29:04,753 - root - ERROR - Exchange error: bybit GET public/time
+2024-08-09 22:29:04,756 - root - WARNING - No data for BTC/USDT. Skipping...
+2024-08-09 22:29:04,757 - root - ERROR - Exchange error: bybit GET public/time
+2024-08-09 22:29:04,758 - root - WARNING - No data for ETH/USDT. Skipping...
+2024-08-09 22:33:36,671 - root - INFO - Initialized bybit exchange
+2024-08-09 22:33:37,448 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723235617231],server_timestamp[1723235607727],recv_window[5000]","result":{},"retExtInfo":{},"time":1723235607727}
+2024-08-09 22:33:37,448 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723235617231],server_timestamp[1723235607727],recv_window[5000]","result":{},"retExtInfo":{},"time":1723235607727}
+2024-08-09 22:33:37,448 - root - ERROR - Error fetching data for BTC/USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723235617231],server_timestamp[1723235607727],recv_window[5000]","result":{},"retExtInfo":{},"time":1723235607727}
+2024-08-09 22:33:37,450 - root - WARNING - No data for BTC/USDT. Skipping...
+2024-08-09 22:33:38,236 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723235618011],server_timestamp[1723235608518],recv_window[5000]","result":{},"retExtInfo":{},"time":1723235608518}
+2024-08-09 22:33:38,236 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723235618011],server_timestamp[1723235608518],recv_window[5000]","result":{},"retExtInfo":{},"time":1723235608518}
+2024-08-09 22:33:38,236 - root - ERROR - Error fetching data for ETH/USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723235618011],server_timestamp[1723235608518],recv_window[5000]","result":{},"retExtInfo":{},"time":1723235608518}
+2024-08-09 22:33:38,236 - root - WARNING - No data for ETH/USDT. Skipping...
+2024-08-09 22:46:24,432 - root - INFO - Initialized bybit exchange
+2024-08-09 22:46:25,221 - root - ERROR - Exchange error: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723236385093}
+2024-08-09 22:46:25,221 - root - ERROR - Error details: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723236385093}
+2024-08-09 22:46:25,221 - root - ERROR - Error fetching data for BTC/USDT: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723236385093}
+2024-08-09 22:46:25,222 - root - WARNING - No data for BTC/USDT. Skipping...
+2024-08-09 22:46:26,053 - root - ERROR - Exchange error: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723236385924}
+2024-08-09 22:46:26,053 - root - ERROR - Error details: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723236385924}
+2024-08-09 22:46:26,053 - root - ERROR - Error fetching data for ETH/USDT: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723236385924}
+2024-08-09 22:46:26,053 - root - WARNING - No data for ETH/USDT. Skipping...
+2024-08-09 23:33:38,206 - root - INFO - Initialized bybit exchange
+2024-08-09 23:33:38,983 - root - ERROR - Exchange error: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239218814}
+2024-08-09 23:33:38,984 - root - ERROR - Error details: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239218814}
+2024-08-09 23:33:38,984 - root - ERROR - Error fetching data for BTC/USDT: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239218814}
+2024-08-09 23:33:38,985 - root - WARNING - No data for BTC/USDT. Skipping...
+2024-08-09 23:33:39,763 - root - ERROR - Exchange error: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239219594}
+2024-08-09 23:33:39,763 - root - ERROR - Error details: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239219594}
+2024-08-09 23:33:39,763 - root - ERROR - Error fetching data for ETH/USDT: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239219594}
+2024-08-09 23:33:39,764 - root - WARNING - No data for ETH/USDT. Skipping...
+2024-08-09 23:33:56,192 - root - INFO - Initialized bybit exchange
+2024-08-09 23:33:56,980 - root - ERROR - Exchange error: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239236810}
+2024-08-09 23:33:56,980 - root - ERROR - Error details: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239236810}
+2024-08-09 23:33:56,980 - root - ERROR - Error fetching data for BTC/USDT: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239236810}
+2024-08-09 23:33:56,981 - root - WARNING - No data for BTC/USDT. Skipping...
+2024-08-09 23:33:57,759 - root - ERROR - Exchange error: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239237590}
+2024-08-09 23:33:57,759 - root - ERROR - Error details: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239237590}
+2024-08-09 23:33:57,759 - root - ERROR - Error fetching data for ETH/USDT: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239237590}
+2024-08-09 23:33:57,759 - root - WARNING - No data for ETH/USDT. Skipping...
+2024-08-09 23:35:16,485 - root - INFO - Initialized bybit exchange
+2024-08-09 23:35:17,273 - root - ERROR - Exchange error: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239317102}
+2024-08-09 23:35:17,273 - root - ERROR - Error details: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239317102}
+2024-08-09 23:35:17,273 - root - ERROR - Error fetching data for BTC/USDT: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239317102}
+2024-08-09 23:35:17,274 - root - WARNING - No data for BTC/USDT. Skipping...
+2024-08-09 23:35:18,050 - root - ERROR - Exchange error: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239317880}
+2024-08-09 23:35:18,050 - root - ERROR - Error details: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239317880}
+2024-08-09 23:35:18,050 - root - ERROR - Error fetching data for ETH/USDT: bybit {"retCode":10003,"retMsg":"API key is invalid.","result":{},"retExtInfo":{},"time":1723239317880}
+2024-08-09 23:35:18,050 - root - WARNING - No data for ETH/USDT. Skipping...
+2024-08-10 20:03:48,884 - root - INFO - Initialized bybit exchange
+2024-08-10 20:03:55,753 - root - ERROR - Exchange error: bybit {"retCode":170131,"retMsg":"Insufficient balance.","result":{},"retExtInfo":{},"time":1723313035616}
+2024-08-10 20:03:55,753 - root - ERROR - Error details: bybit {"retCode":170131,"retMsg":"Insufficient balance.","result":{},"retExtInfo":{},"time":1723313035616}
+2024-08-10 20:04:56,226 - root - ERROR - Exchange error: bybit {"retCode":170131,"retMsg":"Insufficient balance.","result":{},"retExtInfo":{},"time":1723313096085}
+2024-08-10 20:04:56,226 - root - ERROR - Error details: bybit {"retCode":170131,"retMsg":"Insufficient balance.","result":{},"retExtInfo":{},"time":1723313096085}
+2024-08-10 20:05:57,022 - root - ERROR - Exchange error: bybit {"retCode":170131,"retMsg":"Insufficient balance.","result":{},"retExtInfo":{},"time":1723313156882}
+2024-08-10 20:05:57,022 - root - ERROR - Error details: bybit {"retCode":170131,"retMsg":"Insufficient balance.","result":{},"retExtInfo":{},"time":1723313156882}
+2024-08-10 20:08:31,594 - root - INFO - Initialized bybit exchange
+2024-08-10 20:08:39,404 - root - ERROR - Exchange error: bybit {"retCode":170131,"retMsg":"Insufficient balance.","result":{},"retExtInfo":{},"time":1723313319263}
+2024-08-10 20:08:39,404 - root - ERROR - Error details: bybit {"retCode":170131,"retMsg":"Insufficient balance.","result":{},"retExtInfo":{},"time":1723313319263}
+2024-08-10 20:09:25,320 - root - INFO - Initialized bybit exchange
+2024-08-10 20:09:32,928 - root - ERROR - Exchange error: bybit {"retCode":170131,"retMsg":"Insufficient balance.","result":{},"retExtInfo":{},"time":1723313372786}
+2024-08-10 20:09:32,928 - root - ERROR - Error details: bybit {"retCode":170131,"retMsg":"Insufficient balance.","result":{},"retExtInfo":{},"time":1723313372786}
+2024-08-10 20:15:46,734 - root - INFO - Initialized bybit exchange
+2024-08-10 20:16:22,251 - root - CRITICAL - Critical error in main loop: RiskManagement.calculate_position_size() takes 2 positional arguments but 4 were given
+2024-08-10 20:21:28,126 - root - INFO - Initialized bybit exchange
+2024-08-10 20:22:06,249 - root - CRITICAL - Critical error in main loop: RiskManagement.calculate_position_size() takes 2 positional arguments but 4 were given
+2024-08-10 20:24:42,099 - root - INFO - Initialized bybit exchange
+2024-08-10 20:25:21,985 - root - INFO - Placed sell order for TRX/USDT:USDT: {'info': {'orderId': '35a4e94d-e60b-4c2c-b84a-070a162b71f2', 'orderLinkId': ''}, 'id': '35a4e94d-e60b-4c2c-b84a-070a162b71f2', 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'TRX/USDT:USDT', 'type': None, 'timeInForce': None, 'postOnly': None, 'reduceOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+2024-08-10 20:28:28,305 - root - INFO - Initialized bybit exchange
+2024-08-10 20:29:07,489 - root - INFO - Order placed successfully: {'info': {'orderId': '9ea40e78-9e77-45f6-b628-9c8b02dc96fb', 'orderLinkId': ''}, 'id': '9ea40e78-9e77-45f6-b628-9c8b02dc96fb', 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'TRX/USDT:USDT', 'type': None, 'timeInForce': None, 'postOnly': None, 'reduceOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+2024-08-10 20:29:07,489 - root - INFO - Placed sell order for TRX/USDT:USDT: {'info': {'orderId': '9ea40e78-9e77-45f6-b628-9c8b02dc96fb', 'orderLinkId': ''}, 'id': '9ea40e78-9e77-45f6-b628-9c8b02dc96fb', 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'TRX/USDT:USDT', 'type': None, 'timeInForce': None, 'postOnly': None, 'reduceOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+2024-08-10 20:33:53,959 - root - INFO - Initialized bybit exchange
+2024-08-10 20:34:30,791 - root - INFO - Order placed successfully: {'info': {'orderId': '6ebc8178-99ee-4fa9-b98f-efb497aed6f1', 'orderLinkId': ''}, 'id': '6ebc8178-99ee-4fa9-b98f-efb497aed6f1', 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'TRX/USDT:USDT', 'type': None, 'timeInForce': None, 'postOnly': None, 'reduceOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+2024-08-10 20:34:30,791 - root - INFO - Placed sell order for TRX/USDT:USDT: {'info': {'orderId': '6ebc8178-99ee-4fa9-b98f-efb497aed6f1', 'orderLinkId': ''}, 'id': '6ebc8178-99ee-4fa9-b98f-efb497aed6f1', 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'TRX/USDT:USDT', 'type': None, 'timeInForce': None, 'postOnly': None, 'reduceOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+2024-08-10 20:37:55,443 - root - INFO - Initialized bybit exchange
+2024-08-10 20:38:30,129 - root - INFO - Order placed successfully: {'info': {'orderId': 'a8c9b57c-4f7e-4eef-9fb8-109bd64afdb8', 'orderLinkId': ''}, 'id': 'a8c9b57c-4f7e-4eef-9fb8-109bd64afdb8', 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'TRX/USDT:USDT', 'type': None, 'timeInForce': None, 'postOnly': None, 'reduceOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+2024-08-10 20:38:30,130 - root - ERROR - Error fetching order status for ID a8c9b57c-4f7e-4eef-9fb8-109bd64afdb8: bybit fetchOrder() is not supported after the 5/02 update for UTA accounts, please use fetchOpenOrder or fetchClosedOrder
+2024-08-10 20:38:30,130 - root - ERROR - Exchange error: bybit fetchOrder() is not supported after the 5/02 update for UTA accounts, please use fetchOpenOrder or fetchClosedOrder
+2024-08-10 20:38:30,130 - root - ERROR - Error details: bybit fetchOrder() is not supported after the 5/02 update for UTA accounts, please use fetchOpenOrder or fetchClosedOrder
+2024-08-10 20:38:30,130 - root - ERROR - Attempt 1: Error placing order for TRX/USDT:USDT. Error: bybit fetchOrder() is not supported after the 5/02 update for UTA accounts, please use fetchOpenOrder or fetchClosedOrder
+2024-08-10 20:39:41,858 - root - INFO - Initialized bybit exchange
+2024-08-10 20:40:18,812 - root - INFO - Order placed successfully: {'info': {'orderId': 'd2687225-27ba-4b95-99af-28cf05f8ce22', 'orderLinkId': ''}, 'id': 'd2687225-27ba-4b95-99af-28cf05f8ce22', 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'TRX/USDT:USDT', 'type': None, 'timeInForce': None, 'postOnly': None, 'reduceOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+2024-08-10 20:40:19,264 - root - WARNING - Order ID d2687225-27ba-4b95-99af-28cf05f8ce22 not found in open or closed orders.
+2024-08-10 20:40:19,264 - root - INFO - Fetched order status: None
+2024-08-10 20:40:19,264 - root - INFO - Placed sell order for TRX/USDT:USDT: None
+2024-08-10 20:41:38,310 - root - INFO - Initialized bybit exchange
+2024-08-10 20:42:17,657 - root - INFO - Order placed successfully: {'info': {'orderId': 'b726aa49-c57f-4715-a03b-272e693fa890', 'orderLinkId': ''}, 'id': 'b726aa49-c57f-4715-a03b-272e693fa890', 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'TRX/USDT:USDT', 'type': None, 'timeInForce': None, 'postOnly': None, 'reduceOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+2024-08-10 20:42:23,760 - root - INFO - Fetched order status: None
+2024-08-10 20:42:23,760 - root - INFO - Placed sell order for TRX/USDT:USDT: None
+2024-08-10 20:43:28,537 - root - INFO - Initialized bybit exchange
+2024-08-10 20:44:06,553 - root - ERROR - Exchange error: bybit {"retCode":110007,"retMsg":"ab not enough for new order","result":{},"retExtInfo":{},"time":1723315446380}
+2024-08-10 20:44:06,553 - root - ERROR - Error details: bybit {"retCode":110007,"retMsg":"ab not enough for new order","result":{},"retExtInfo":{},"time":1723315446380}
+2024-08-10 20:44:06,553 - root - ERROR - Attempt 1: Error placing order for BNB/USDT:USDT. Error: bybit {"retCode":110007,"retMsg":"ab not enough for new order","result":{},"retExtInfo":{},"time":1723315446380}
+2024-08-10 23:47:06,048 - root - INFO - Initialized bybit exchange
+2024-08-10 23:47:45,909 - root - INFO - Order placed successfully: {'info': {'orderId': '2ae7b679-3fef-488e-8294-4d125b766d19', 'orderLinkId': ''}, 'id': '2ae7b679-3fef-488e-8294-4d125b766d19', 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'symbol': 'ZEC/USDT:USDT', 'type': None, 'timeInForce': None, 'postOnly': None, 'reduceOnly': None, 'side': None, 'price': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'status': None, 'fee': None, 'trades': [], 'fees': []}
+2024-08-10 23:47:52,031 - root - INFO - Fetched order status: {'info': {'symbol': 'ZECUSDT', 'orderType': 'Market', 'orderLinkId': '', 'slLimitPrice': '0', 'orderId': '2ae7b679-3fef-488e-8294-4d125b766d19', 'cancelType': 'UNKNOWN', 'avgPrice': '41.29', 'stopOrderType': '', 'lastPriceOnCreated': '41.3', 'orderStatus': 'Filled', 'createType': 'CreateByUser', 'takeProfit': '', 'cumExecValue': '57.806', 'tpslMode': '', 'smpType': 'None', 'triggerDirection': '0', 'blockTradeId': '', 'rejectReason': 'EC_NoError', 'isLeverage': '', 'price': '39.24', 'orderIv': '', 'createdTime': '1723326465574', 'tpTriggerBy': '', 'positionIdx': '0', 'timeInForce': 'IOC', 'leavesValue': '0', 'updatedTime': '1723326465576', 'side': 'Sell', 'smpGroup': '0', 'triggerPrice': '', 'tpLimitPrice': '0', 'cumExecFee': '0.03179331', 'slTriggerBy': '', 'leavesQty': '0', 'closeOnTrigger': False, 'placeType': '', 'cumExecQty': '1.4', 'reduceOnly': False, 'qty': '1.4', 'stopLoss': '', 'smpOrderId': '', 'triggerBy': '', 'nextPageCursor': '2ae7b679-3fef-488e-8294-4d125b766d19%3A1723326465574%2C2ae7b679-3fef-488e-8294-4d125b766d19%3A1723326465574'}, 'id': '2ae7b679-3fef-488e-8294-4d125b766d19', 'clientOrderId': None, 'timestamp': 1723326465574, 'datetime': '2024-08-10T21:47:45.574Z', 'lastTradeTimestamp': 1723326465576, 'lastUpdateTimestamp': 1723326465576, 'symbol': 'ZEC/USDT:USDT', 'type': 'market', 'timeInForce': 'IOC', 'postOnly': False, 'reduceOnly': False, 'side': 'sell', 'price': 39.24, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': 1.4, 'cost': 57.806, 'average': 41.29, 'filled': 1.4, 'remaining': 0.0, 'status': 'closed', 'fee': {'cost': 0.03179331, 'currency': 'USDT'}, 'trades': [], 'fees': [{'cost': 0.03179331, 'currency': 'USDT'}]}
+2024-08-10 23:47:52,031 - root - INFO - Placed sell order for ZEC/USDT:USDT: {'info': {'symbol': 'ZECUSDT', 'orderType': 'Market', 'orderLinkId': '', 'slLimitPrice': '0', 'orderId': '2ae7b679-3fef-488e-8294-4d125b766d19', 'cancelType': 'UNKNOWN', 'avgPrice': '41.29', 'stopOrderType': '', 'lastPriceOnCreated': '41.3', 'orderStatus': 'Filled', 'createType': 'CreateByUser', 'takeProfit': '', 'cumExecValue': '57.806', 'tpslMode': '', 'smpType': 'None', 'triggerDirection': '0', 'blockTradeId': '', 'rejectReason': 'EC_NoError', 'isLeverage': '', 'price': '39.24', 'orderIv': '', 'createdTime': '1723326465574', 'tpTriggerBy': '', 'positionIdx': '0', 'timeInForce': 'IOC', 'leavesValue': '0', 'updatedTime': '1723326465576', 'side': 'Sell', 'smpGroup': '0', 'triggerPrice': '', 'tpLimitPrice': '0', 'cumExecFee': '0.03179331', 'slTriggerBy': '', 'leavesQty': '0', 'closeOnTrigger': False, 'placeType': '', 'cumExecQty': '1.4', 'reduceOnly': False, 'qty': '1.4', 'stopLoss': '', 'smpOrderId': '', 'triggerBy': '', 'nextPageCursor': '2ae7b679-3fef-488e-8294-4d125b766d19%3A1723326465574%2C2ae7b679-3fef-488e-8294-4d125b766d19%3A1723326465574'}, 'id': '2ae7b679-3fef-488e-8294-4d125b766d19', 'clientOrderId': None, 'timestamp': 1723326465574, 'datetime': '2024-08-10T21:47:45.574Z', 'lastTradeTimestamp': 1723326465576, 'lastUpdateTimestamp': 1723326465576, 'symbol': 'ZEC/USDT:USDT', 'type': 'market', 'timeInForce': 'IOC', 'postOnly': False, 'reduceOnly': False, 'side': 'sell', 'price': 39.24, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'amount': 1.4, 'cost': 57.806, 'average': 41.29, 'filled': 1.4, 'remaining': 0.0, 'status': 'closed', 'fee': {'cost': 0.03179331, 'currency': 'USDT'}, 'trades': [], 'fees': [{'cost': 0.03179331, 'currency': 'USDT'}]}
+2024-08-11 10:36:21,049 - root - INFO - Initialized bybit exchange
+2024-08-11 10:37:00,315 - root - INFO - Initialized bybit exchange
+2024-08-11 10:37:31,792 - root - ERROR - Exchange error: bybit {"retCode":110007,"retMsg":"ab not enough for new order","result":{},"retExtInfo":{},"time":1723365450692}
+2024-08-11 10:37:31,792 - root - ERROR - Error details: bybit {"retCode":110007,"retMsg":"ab not enough for new order","result":{},"retExtInfo":{},"time":1723365450692}
+2024-08-11 10:37:31,792 - root - ERROR - Attempt 1: Error placing order for BNB/USDT:USDT. Error: bybit {"retCode":110007,"retMsg":"ab not enough for new order","result":{},"retExtInfo":{},"time":1723365450692}
+2024-08-11 12:49:51,321 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373391106],server_timestamp[1723373389836],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373389836}
+2024-08-11 12:49:51,321 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373391106],server_timestamp[1723373389836],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373389836}
+2024-08-11 12:49:51,322 - root - ERROR - Error fetching data for BTC/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373391106],server_timestamp[1723373389836],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373389836}
+2024-08-11 12:49:51,322 - root - ERROR - Error processing BTC/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 12:49:52,098 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373391884],server_timestamp[1723373390613],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373390613}
+2024-08-11 12:49:52,098 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373391884],server_timestamp[1723373390613],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373390613}
+2024-08-11 12:49:52,099 - root - ERROR - Error fetching data for ETH/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373391884],server_timestamp[1723373390613],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373390613}
+2024-08-11 12:49:52,099 - root - ERROR - Error processing ETH/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 12:49:52,876 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373392660],server_timestamp[1723373391390],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373391390}
+2024-08-11 12:49:52,876 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373392660],server_timestamp[1723373391390],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373391390}
+2024-08-11 12:49:52,876 - root - ERROR - Error fetching data for BNB/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373392660],server_timestamp[1723373391390],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373391390}
+2024-08-11 12:49:52,877 - root - ERROR - Error processing BNB/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 12:50:01,514 - root - ERROR - Error processing XRP/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 12:50:01,984 - root - ERROR - Error processing ADA/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 12:51:45,251 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373505036],server_timestamp[1723373503765],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373503765}
+2024-08-11 12:51:45,251 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373505036],server_timestamp[1723373503765],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373503765}
+2024-08-11 12:51:45,251 - root - ERROR - Error fetching data for BTC/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373505036],server_timestamp[1723373503765],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373503765}
+2024-08-11 12:51:45,251 - root - ERROR - Error processing BTC/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 12:51:46,028 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373505813],server_timestamp[1723373504543],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373504543}
+2024-08-11 12:51:46,028 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373505813],server_timestamp[1723373504543],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373504543}
+2024-08-11 12:51:46,029 - root - ERROR - Error fetching data for ETH/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723373505813],server_timestamp[1723373504543],recv_window[5000]","result":{},"retExtInfo":{},"time":1723373504543}
+2024-08-11 12:51:46,029 - root - ERROR - Error processing ETH/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 12:51:53,119 - root - ERROR - Error processing BNB/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 12:51:54,215 - root - ERROR - Error processing XRP/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 12:51:54,979 - root - ERROR - Error processing ADA/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 13:53:50,268 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377229727],server_timestamp[1723377228726],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377228726}
+2024-08-11 13:53:50,268 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377229727],server_timestamp[1723377228726],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377228726}
+2024-08-11 13:53:50,268 - root - ERROR - Error fetching data for BTC/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377229727],server_timestamp[1723377228726],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377228726}
+2024-08-11 13:53:50,269 - root - ERROR - Error processing BTC/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 13:53:51,056 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377230829],server_timestamp[1723377229516],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377229516}
+2024-08-11 13:53:51,056 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377230829],server_timestamp[1723377229516],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377229516}
+2024-08-11 13:53:51,056 - root - ERROR - Error fetching data for ETH/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377230829],server_timestamp[1723377229516],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377229516}
+2024-08-11 13:53:51,056 - root - ERROR - Error processing ETH/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 13:53:51,835 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377231618],server_timestamp[1723377230292],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377230292}
+2024-08-11 13:53:51,835 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377231618],server_timestamp[1723377230292],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377230292}
+2024-08-11 13:53:51,835 - root - ERROR - Error fetching data for BNB/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377231618],server_timestamp[1723377230292],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377230292}
+2024-08-11 13:53:51,835 - root - ERROR - Error processing BNB/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 13:53:52,612 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377232396],server_timestamp[1723377231072],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377231072}
+2024-08-11 13:53:52,612 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377232396],server_timestamp[1723377231072],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377231072}
+2024-08-11 13:53:52,612 - root - ERROR - Error fetching data for XRP/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377232396],server_timestamp[1723377231072],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377231072}
+2024-08-11 13:53:52,612 - root - ERROR - Error processing XRP/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 13:53:53,386 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377233172],server_timestamp[1723377231846],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377231846}
+2024-08-11 13:53:53,386 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377233172],server_timestamp[1723377231846],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377231846}
+2024-08-11 13:53:53,386 - root - ERROR - Error fetching data for ADA/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723377233172],server_timestamp[1723377231846],recv_window[5000]","result":{},"retExtInfo":{},"time":1723377231846}
+2024-08-11 13:53:53,387 - root - ERROR - Error processing ADA/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:03,993 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723398963787],server_timestamp[1723398962607],recv_window[5000]","result":{},"retExtInfo":{},"time":1723398962607}
+2024-08-11 19:56:03,994 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723398963787],server_timestamp[1723398962607],recv_window[5000]","result":{},"retExtInfo":{},"time":1723398962607}
+2024-08-11 19:56:03,994 - root - ERROR - Error fetching data for BTC/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723398963787],server_timestamp[1723398962607],recv_window[5000]","result":{},"retExtInfo":{},"time":1723398962607}
+2024-08-11 19:56:03,994 - root - ERROR - Error processing BTC/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:04,771 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723398964555],server_timestamp[1723398963385],recv_window[5000]","result":{},"retExtInfo":{},"time":1723398963385}
+2024-08-11 19:56:04,771 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723398964555],server_timestamp[1723398963385],recv_window[5000]","result":{},"retExtInfo":{},"time":1723398963385}
+2024-08-11 19:56:04,771 - root - ERROR - Error fetching data for ETH/USDT:USDT: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723398964555],server_timestamp[1723398963385],recv_window[5000]","result":{},"retExtInfo":{},"time":1723398963385}
+2024-08-11 19:56:04,771 - root - ERROR - Error processing ETH/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:12,635 - root - ERROR - Error processing BNB/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:13,716 - root - ERROR - Error processing XRP/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:14,478 - root - ERROR - Error processing ADA/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:15,553 - root - ERROR - Error processing SOL/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:16,301 - root - ERROR - Error processing DOT/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:16,751 - root - ERROR - Error processing DOGE/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:17,202 - root - ERROR - Error processing AVAX/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:17,648 - root - ERROR - Error processing LINK/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:18,095 - root - ERROR - Error processing MATIC/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:18,545 - root - ERROR - Error processing UNI/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:18,992 - root - ERROR - Error processing LTC/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:19,752 - root - ERROR - Error processing ATOM/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:20,528 - root - ERROR - Error processing ETC/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:21,298 - root - ERROR - Error processing XLM/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:21,753 - root - ERROR - Error processing ALGO/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:22,194 - root - ERROR - Error processing FIL/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:22,654 - root - ERROR - Error processing VET/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:23,104 - root - ERROR - Error processing THETA/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:23,549 - root - ERROR - Error processing TRX/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:24,133 - root - ERROR - Error processing EOS/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:25,370 - root - ERROR - Error processing XTZ/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:26,135 - root - ERROR - Error processing AAVE/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:26,888 - root - ERROR - Error processing MKR/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:27,332 - root - ERROR - Error processing COMP/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:27,785 - root - ERROR - Error processing SNX/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:28,229 - root - ERROR - Error processing YFI/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:28,673 - root - ERROR - Error processing NEO/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:29,124 - root - ERROR - Error processing DASH/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:30,192 - root - ERROR - Error processing ZEC/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:30,773 - root - ERROR - Error processing BAT/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:31,223 - root - ERROR - Error processing IOTA/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:32,016 - root - ERROR - Error processing ZIL/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:32,462 - root - ERROR - Error processing KSM/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:32,934 - root - ERROR - Error processing ENJ/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:33,384 - root - ERROR - Error processing WAVES/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:33,833 - root - ERROR - Error processing SUSHI/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:34,917 - root - ERROR - Error processing CHZ/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:36,321 - root - ERROR - Error processing NEAR/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:36,767 - root - ERROR - Error processing GRT/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:37,518 - root - ERROR - Error processing EGLD/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:37,730 - root - ERROR - Exchange error: bybit does not have market symbol LUNA/USDT:USDT
+2024-08-11 19:56:37,730 - root - ERROR - Error details: bybit does not have market symbol LUNA/USDT:USDT
+2024-08-11 19:56:37,730 - root - ERROR - Error fetching data for LUNA/USDT:USDT: bybit does not have market symbol LUNA/USDT:USDT
+2024-08-11 19:56:37,731 - root - ERROR - Error processing LUNA/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:38,185 - root - ERROR - Error processing SAND/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:38,632 - root - ERROR - Error processing MANA/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:39,078 - root - ERROR - Error processing AXS/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:39,543 - root - ERROR - Error processing RUNE/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:39,988 - root - ERROR - Error processing FTM/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:40,445 - root - ERROR - Error processing ONE/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 19:56:40,896 - root - ERROR - Error processing 1INCH/USDT:USDT: object DataFrame can't be used in 'await' expression
+2024-08-11 20:06:24,553 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399584347],server_timestamp[1723399583158],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399583158}
+2024-08-11 20:06:24,554 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399584347],server_timestamp[1723399583158],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399583158}
+2024-08-11 20:06:24,554 - root - WARNING - No data available for BTC/USDT:USDT, skipping...
+2024-08-11 20:06:25,115 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399584907],server_timestamp[1723399583720],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399583720}
+2024-08-11 20:06:25,115 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399584907],server_timestamp[1723399583720],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399583720}
+2024-08-11 20:06:25,116 - root - WARNING - No data available for ETH/USDT:USDT, skipping...
+2024-08-11 20:06:25,673 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399585467],server_timestamp[1723399584278],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399584278}
+2024-08-11 20:06:25,673 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399585467],server_timestamp[1723399584278],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399584278}
+2024-08-11 20:06:25,673 - root - WARNING - No data available for BNB/USDT:USDT, skipping...
+2024-08-11 20:06:26,234 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399586027],server_timestamp[1723399584839],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399584839}
+2024-08-11 20:06:26,234 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723399586027],server_timestamp[1723399584839],recv_window[5000]","result":{},"retExtInfo":{},"time":1723399584839}
+2024-08-11 20:06:26,234 - root - WARNING - No data available for XRP/USDT:USDT, skipping...
+2024-08-11 20:06:35,332 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:35,332 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:35,332 - root - WARNING - No data available for ADA/USDT:USDT, skipping...
+2024-08-11 20:06:35,716 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:35,716 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:35,717 - root - WARNING - No data available for SOL/USDT:USDT, skipping...
+2024-08-11 20:06:36,584 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:36,584 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:36,585 - root - WARNING - No data available for DOT/USDT:USDT, skipping...
+2024-08-11 20:06:36,831 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:36,831 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:36,831 - root - WARNING - No data available for DOGE/USDT:USDT, skipping...
+2024-08-11 20:06:37,488 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:37,488 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:37,488 - root - WARNING - No data available for AVAX/USDT:USDT, skipping...
+2024-08-11 20:06:37,732 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:37,732 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:37,733 - root - WARNING - No data available for LINK/USDT:USDT, skipping...
+2024-08-11 20:06:37,972 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:37,972 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:37,972 - root - WARNING - No data available for MATIC/USDT:USDT, skipping...
+2024-08-11 20:06:38,359 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:38,359 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:38,359 - root - WARNING - No data available for UNI/USDT:USDT, skipping...
+2024-08-11 20:06:38,908 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:38,908 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:38,908 - root - WARNING - No data available for LTC/USDT:USDT, skipping...
+2024-08-11 20:06:39,148 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:39,148 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:39,149 - root - WARNING - No data available for ATOM/USDT:USDT, skipping...
+2024-08-11 20:06:39,395 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:39,395 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:39,396 - root - WARNING - No data available for ETC/USDT:USDT, skipping...
+2024-08-11 20:06:39,638 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:39,639 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:39,639 - root - WARNING - No data available for XLM/USDT:USDT, skipping...
+2024-08-11 20:06:39,881 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:39,881 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:39,882 - root - WARNING - No data available for ALGO/USDT:USDT, skipping...
+2024-08-11 20:06:40,126 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:40,126 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:40,126 - root - WARNING - No data available for FIL/USDT:USDT, skipping...
+2024-08-11 20:06:40,514 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:40,514 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:40,514 - root - WARNING - No data available for VET/USDT:USDT, skipping...
+2024-08-11 20:06:40,898 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:40,898 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:40,899 - root - WARNING - No data available for THETA/USDT:USDT, skipping...
+2024-08-11 20:06:41,140 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:41,140 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:41,141 - root - WARNING - No data available for TRX/USDT:USDT, skipping...
+2024-08-11 20:06:41,388 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:41,389 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:41,389 - root - WARNING - No data available for EOS/USDT:USDT, skipping...
+2024-08-11 20:06:41,775 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:41,775 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:41,776 - root - WARNING - No data available for XTZ/USDT:USDT, skipping...
+2024-08-11 20:06:42,015 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:42,015 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:42,015 - root - WARNING - No data available for AAVE/USDT:USDT, skipping...
+2024-08-11 20:06:42,256 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:42,256 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:42,257 - root - WARNING - No data available for MKR/USDT:USDT, skipping...
+2024-08-11 20:06:42,633 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:42,634 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:42,634 - root - WARNING - No data available for COMP/USDT:USDT, skipping...
+2024-08-11 20:06:43,012 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:43,012 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:43,013 - root - WARNING - No data available for SNX/USDT:USDT, skipping...
+2024-08-11 20:06:43,248 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:43,248 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:43,248 - root - WARNING - No data available for YFI/USDT:USDT, skipping...
+2024-08-11 20:06:43,487 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:43,488 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:43,488 - root - WARNING - No data available for NEO/USDT:USDT, skipping...
+2024-08-11 20:06:43,731 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:43,732 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:43,732 - root - WARNING - No data available for DASH/USDT:USDT, skipping...
+2024-08-11 20:06:44,111 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:44,111 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:44,112 - root - WARNING - No data available for ZEC/USDT:USDT, skipping...
+2024-08-11 20:06:44,352 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:44,352 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:44,352 - root - WARNING - No data available for BAT/USDT:USDT, skipping...
+2024-08-11 20:06:44,602 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:44,602 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:44,603 - root - WARNING - No data available for IOTA/USDT:USDT, skipping...
+2024-08-11 20:06:44,992 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:44,992 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:44,993 - root - WARNING - No data available for ZIL/USDT:USDT, skipping...
+2024-08-11 20:06:45,231 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:45,232 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:45,232 - root - WARNING - No data available for KSM/USDT:USDT, skipping...
+2024-08-11 20:06:45,473 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:45,473 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:45,473 - root - WARNING - No data available for ENJ/USDT:USDT, skipping...
+2024-08-11 20:06:45,859 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:45,859 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:45,860 - root - WARNING - No data available for WAVES/USDT:USDT, skipping...
+2024-08-11 20:06:46,098 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:46,099 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:46,099 - root - WARNING - No data available for SUSHI/USDT:USDT, skipping...
+2024-08-11 20:06:46,959 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:46,959 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:46,960 - root - WARNING - No data available for CHZ/USDT:USDT, skipping...
+2024-08-11 20:06:47,199 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:47,199 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:47,199 - root - WARNING - No data available for NEAR/USDT:USDT, skipping...
+2024-08-11 20:06:47,585 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:47,585 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:47,586 - root - WARNING - No data available for GRT/USDT:USDT, skipping...
+2024-08-11 20:06:47,826 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:47,826 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:47,826 - root - WARNING - No data available for EGLD/USDT:USDT, skipping...
+2024-08-11 20:06:47,827 - root - ERROR - Exchange error: bybit does not have market symbol LUNA/USDT:USDT
+2024-08-11 20:06:47,827 - root - ERROR - Error details: bybit does not have market symbol LUNA/USDT:USDT
+2024-08-11 20:06:47,827 - root - WARNING - No data available for LUNA/USDT:USDT, skipping...
+2024-08-11 20:06:48,066 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:48,066 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:48,067 - root - WARNING - No data available for SAND/USDT:USDT, skipping...
+2024-08-11 20:06:48,306 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:48,306 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:48,306 - root - WARNING - No data available for MANA/USDT:USDT, skipping...
+2024-08-11 20:06:48,545 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:48,545 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:48,545 - root - WARNING - No data available for AXS/USDT:USDT, skipping...
+2024-08-11 20:06:48,784 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:48,784 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:48,784 - root - WARNING - No data available for RUNE/USDT:USDT, skipping...
+2024-08-11 20:06:49,645 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:49,645 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:49,645 - root - WARNING - No data available for FTM/USDT:USDT, skipping...
+2024-08-11 20:06:50,142 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:50,143 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:50,143 - root - WARNING - No data available for ONE/USDT:USDT, skipping...
+2024-08-11 20:06:50,382 - root - ERROR - An unexpected error occurred: object list can't be used in 'await' expression
+2024-08-11 20:06:50,382 - root - ERROR - Error details: object list can't be used in 'await' expression
+2024-08-11 20:06:50,382 - root - WARNING - No data available for 1INCH/USDT:USDT, skipping...
+2024-08-13 10:01:05,189 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536064967],server_timestamp[1723536062792],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536062792}
+2024-08-13 10:01:05,190 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536064967],server_timestamp[1723536062792],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536062792}
+2024-08-13 10:01:05,190 - root - WARNING - No data available for BTC/USDT:USDT, skipping...
+2024-08-13 10:01:05,759 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536065529],server_timestamp[1723536063363],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536063363}
+2024-08-13 10:01:05,759 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536065529],server_timestamp[1723536063363],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536063363}
+2024-08-13 10:01:05,759 - root - WARNING - No data available for ETH/USDT:USDT, skipping...
+2024-08-13 10:01:06,324 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536066091],server_timestamp[1723536063926],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536063926}
+2024-08-13 10:01:06,324 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536066091],server_timestamp[1723536063926],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536063926}
+2024-08-13 10:01:06,324 - root - WARNING - No data available for BNB/USDT:USDT, skipping...
+2024-08-13 10:01:06,880 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536066651],server_timestamp[1723536064484],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536064484}
+2024-08-13 10:01:06,882 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536066651],server_timestamp[1723536064484],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536064484}
+2024-08-13 10:01:06,882 - root - WARNING - No data available for XRP/USDT:USDT, skipping...
+2024-08-13 10:01:07,433 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536067211],server_timestamp[1723536065036],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536065036}
+2024-08-13 10:01:07,433 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536067211],server_timestamp[1723536065036],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536065036}
+2024-08-13 10:01:07,433 - root - WARNING - No data available for ADA/USDT:USDT, skipping...
+2024-08-13 10:01:07,993 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536067773],server_timestamp[1723536065597],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536065597}
+2024-08-13 10:01:07,993 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536067773],server_timestamp[1723536065597],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536065597}
+2024-08-13 10:01:07,993 - root - WARNING - No data available for SOL/USDT:USDT, skipping...
+2024-08-13 10:01:08,554 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536068335],server_timestamp[1723536066158],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536066158}
+2024-08-13 10:01:08,554 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536068335],server_timestamp[1723536066158],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536066158}
+2024-08-13 10:01:08,554 - root - WARNING - No data available for DOT/USDT:USDT, skipping...
+2024-08-13 10:01:09,120 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536068897],server_timestamp[1723536066722],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536066722}
+2024-08-13 10:01:09,120 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536068897],server_timestamp[1723536066722],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536066722}
+2024-08-13 10:01:09,121 - root - WARNING - No data available for DOGE/USDT:USDT, skipping...
+2024-08-13 10:01:09,680 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536069458],server_timestamp[1723536067283],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536067283}
+2024-08-13 10:01:09,680 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536069458],server_timestamp[1723536067283],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536067283}
+2024-08-13 10:01:09,680 - root - WARNING - No data available for AVAX/USDT:USDT, skipping...
+2024-08-13 10:01:10,241 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536070019],server_timestamp[1723536067843],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536067843}
+2024-08-13 10:01:10,241 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536070019],server_timestamp[1723536067843],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536067843}
+2024-08-13 10:01:10,241 - root - WARNING - No data available for LINK/USDT:USDT, skipping...
+2024-08-13 10:01:10,800 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536070579],server_timestamp[1723536068401],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536068401}
+2024-08-13 10:01:10,800 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536070579],server_timestamp[1723536068401],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536068401}
+2024-08-13 10:01:10,800 - root - WARNING - No data available for MATIC/USDT:USDT, skipping...
+2024-08-13 10:01:11,369 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536071140],server_timestamp[1723536068973],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536068973}
+2024-08-13 10:01:11,370 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536071140],server_timestamp[1723536068973],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536068973}
+2024-08-13 10:01:11,370 - root - WARNING - No data available for UNI/USDT:USDT, skipping...
+2024-08-13 10:01:11,923 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536071700],server_timestamp[1723536069524],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536069524}
+2024-08-13 10:01:11,923 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536071700],server_timestamp[1723536069524],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536069524}
+2024-08-13 10:01:11,923 - root - WARNING - No data available for LTC/USDT:USDT, skipping...
+2024-08-13 10:01:12,479 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536072261],server_timestamp[1723536070083],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536070083}
+2024-08-13 10:01:12,479 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536072261],server_timestamp[1723536070083],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536070083}
+2024-08-13 10:01:12,480 - root - WARNING - No data available for ATOM/USDT:USDT, skipping...
+2024-08-13 10:01:13,044 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536072822],server_timestamp[1723536070646],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536070646}
+2024-08-13 10:01:13,044 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536072822],server_timestamp[1723536070646],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536070646}
+2024-08-13 10:01:13,044 - root - WARNING - No data available for ETC/USDT:USDT, skipping...
+2024-08-13 10:01:13,603 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536073384],server_timestamp[1723536071207],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536071207}
+2024-08-13 10:01:13,603 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536073384],server_timestamp[1723536071207],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536071207}
+2024-08-13 10:01:13,604 - root - WARNING - No data available for XLM/USDT:USDT, skipping...
+2024-08-13 10:01:14,169 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536073944],server_timestamp[1723536071768],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536071768}
+2024-08-13 10:01:14,169 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536073944],server_timestamp[1723536071768],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536071768}
+2024-08-13 10:01:14,169 - root - WARNING - No data available for ALGO/USDT:USDT, skipping...
+2024-08-13 10:01:14,734 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536074504],server_timestamp[1723536072337],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536072337}
+2024-08-13 10:01:14,734 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536074504],server_timestamp[1723536072337],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536072337}
+2024-08-13 10:01:14,734 - root - WARNING - No data available for FIL/USDT:USDT, skipping...
+2024-08-13 10:01:15,600 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536075066],server_timestamp[1723536073202],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536073202}
+2024-08-13 10:01:15,601 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536075066],server_timestamp[1723536073202],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536073202}
+2024-08-13 10:01:15,601 - root - WARNING - No data available for VET/USDT:USDT, skipping...
+2024-08-13 10:01:15,846 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536075626],server_timestamp[1723536073449],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536073449}
+2024-08-13 10:01:15,846 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536075626],server_timestamp[1723536073449],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536073449}
+2024-08-13 10:01:15,846 - root - WARNING - No data available for THETA/USDT:USDT, skipping...
+2024-08-13 10:01:16,409 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536076187],server_timestamp[1723536074012],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536074012}
+2024-08-13 10:01:16,409 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536076187],server_timestamp[1723536074012],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536074012}
+2024-08-13 10:01:16,409 - root - WARNING - No data available for TRX/USDT:USDT, skipping...
+2024-08-13 10:01:16,977 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536076748],server_timestamp[1723536074580],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536074580}
+2024-08-13 10:01:16,977 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536076748],server_timestamp[1723536074580],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536074580}
+2024-08-13 10:01:16,978 - root - WARNING - No data available for EOS/USDT:USDT, skipping...
+2024-08-13 10:01:17,870 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536077308],server_timestamp[1723536075473],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536075473}
+2024-08-13 10:01:17,870 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536077308],server_timestamp[1723536075473],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536075473}
+2024-08-13 10:01:17,870 - root - WARNING - No data available for XTZ/USDT:USDT, skipping...
+2024-08-13 10:01:18,090 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536077870],server_timestamp[1723536075693],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536075693}
+2024-08-13 10:01:18,090 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536077870],server_timestamp[1723536075693],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536075693}
+2024-08-13 10:01:18,091 - root - WARNING - No data available for AAVE/USDT:USDT, skipping...
+2024-08-13 10:01:18,658 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536078430],server_timestamp[1723536076261],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536076261}
+2024-08-13 10:01:18,658 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536078430],server_timestamp[1723536076261],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536076261}
+2024-08-13 10:01:18,658 - root - WARNING - No data available for MKR/USDT:USDT, skipping...
+2024-08-13 10:01:19,213 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536078991],server_timestamp[1723536076817],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536076817}
+2024-08-13 10:01:19,213 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536078991],server_timestamp[1723536076817],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536076817}
+2024-08-13 10:01:19,214 - root - WARNING - No data available for COMP/USDT:USDT, skipping...
+2024-08-13 10:01:19,782 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536079552],server_timestamp[1723536077385],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536077385}
+2024-08-13 10:01:19,782 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536079552],server_timestamp[1723536077385],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536077385}
+2024-08-13 10:01:19,782 - root - WARNING - No data available for SNX/USDT:USDT, skipping...
+2024-08-13 10:01:20,333 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536080113],server_timestamp[1723536077935],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536077935}
+2024-08-13 10:01:20,333 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536080113],server_timestamp[1723536077935],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536077935}
+2024-08-13 10:01:20,333 - root - WARNING - No data available for YFI/USDT:USDT, skipping...
+2024-08-13 10:01:20,900 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536080674],server_timestamp[1723536078501],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536078501}
+2024-08-13 10:01:20,900 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536080674],server_timestamp[1723536078501],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536078501}
+2024-08-13 10:01:20,900 - root - WARNING - No data available for NEO/USDT:USDT, skipping...
+2024-08-13 10:01:21,456 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536081236],server_timestamp[1723536079058],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536079058}
+2024-08-13 10:01:21,456 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536081236],server_timestamp[1723536079058],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536079058}
+2024-08-13 10:01:21,456 - root - WARNING - No data available for DASH/USDT:USDT, skipping...
+2024-08-13 10:01:22,017 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536081797],server_timestamp[1723536079620],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536079620}
+2024-08-13 10:01:22,017 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536081797],server_timestamp[1723536079620],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536079620}
+2024-08-13 10:01:22,017 - root - WARNING - No data available for ZEC/USDT:USDT, skipping...
+2024-08-13 10:01:22,587 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536082358],server_timestamp[1723536080191],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536080191}
+2024-08-13 10:01:22,587 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536082358],server_timestamp[1723536080191],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536080191}
+2024-08-13 10:01:22,588 - root - WARNING - No data available for BAT/USDT:USDT, skipping...
+2024-08-13 10:01:23,141 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536082919],server_timestamp[1723536080743],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536080743}
+2024-08-13 10:01:23,141 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536082919],server_timestamp[1723536080743],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536080743}
+2024-08-13 10:01:23,142 - root - WARNING - No data available for IOTA/USDT:USDT, skipping...
+2024-08-13 10:01:23,701 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536083480],server_timestamp[1723536081302],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536081302}
+2024-08-13 10:01:23,701 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536083480],server_timestamp[1723536081302],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536081302}
+2024-08-13 10:01:23,701 - root - WARNING - No data available for ZIL/USDT:USDT, skipping...
+2024-08-13 10:01:24,271 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536084041],server_timestamp[1723536081874],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536081874}
+2024-08-13 10:01:24,271 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536084041],server_timestamp[1723536081874],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536081874}
+2024-08-13 10:01:24,272 - root - WARNING - No data available for KSM/USDT:USDT, skipping...
+2024-08-13 10:01:24,820 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536084601],server_timestamp[1723536082423],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536082423}
+2024-08-13 10:01:24,820 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536084601],server_timestamp[1723536082423],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536082423}
+2024-08-13 10:01:24,820 - root - WARNING - No data available for ENJ/USDT:USDT, skipping...
+2024-08-13 10:01:25,379 - root - ERROR - Network error: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536085162],server_timestamp[1723536082983],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536082983}
+2024-08-13 10:01:25,380 - root - ERROR - Error details: bybit {"retCode":10002,"retMsg":"invalid request, please check your server timestamp or recv_window param. req_timestamp[1723536085162],server_timestamp[1723536082983],recv_window[5000]","result":{},"retExtInfo":{},"time":1723536082983}
+2024-08-13 10:01:25,380 - root - WARNING - No data available for WAVES/USDT:USDT, skipping...
