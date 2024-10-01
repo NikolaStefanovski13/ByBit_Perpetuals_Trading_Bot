@@ -16,15 +16,12 @@ class Strategy:
             return self._breakout_strategy(df, order_book_analysis, market_sentiment, ml_prediction, market_regime)
 
     def _momentum_strategy(self, df, order_book_analysis, market_sentiment, ml_prediction, market_regime):
-        # Implement momentum strategy logic
         pass
 
     def _mean_reversion_strategy(self, df, order_book_analysis, market_sentiment, ml_prediction, market_regime):
-        # Implement mean reversion strategy logic
         pass
 
     def _breakout_strategy(self, df, order_book_analysis, market_sentiment, ml_prediction, market_regime):
-        # Implement breakout strategy logic
         pass
 
 class MultiStrategyManager:
@@ -56,5 +53,3 @@ class MultiStrategyManager:
     def execute_trades(self, signals, total_capital):
         for strategy, signal in signals.items():
             capital = total_capital * self.capital_allocation[strategy]
-            # Execute trades for each strategy with its allocated capital
-            # ... (implementation details)
