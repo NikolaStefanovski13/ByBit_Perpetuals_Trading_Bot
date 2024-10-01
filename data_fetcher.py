@@ -26,7 +26,7 @@ class DataFetcher:
                 else:
                     handle_api_error(e)
                     logging.error(f"Failed to fetch data for {symbol} after {self.max_retries} attempts")
-        return pd.DataFrame()  # Return an empty DataFrame if all attempts fail
+        return pd.DataFrame() 
 
     async def fetch_order_book(self, symbol, depth=10):
         for attempt in range(self.max_retries):
@@ -40,4 +40,4 @@ class DataFetcher:
                 else:
                     handle_api_error(e)
                     logging.error(f"Failed to fetch order book for {symbol} after {self.max_retries} attempts")
-        return None  # Return None if all attempts fail
+        return None 
