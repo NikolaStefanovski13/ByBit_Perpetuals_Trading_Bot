@@ -24,7 +24,7 @@ def initialize_exchange(config):
         'secret': config['exchange']['secret'],
         'enableRateLimit': True,
         'options': config['exchange'].get('options', {}),
-        'aiohttp_proxy': config.get('proxy_url')  # Add proxy support if needed
+        'aiohttp_proxy': config.get('proxy_url')  
     })
 
 def load_config(file_path):
