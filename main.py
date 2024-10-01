@@ -98,8 +98,6 @@ async def main():
     setup_logging(config['logging']['level'])
 
     exchange = initialize_exchange(config)
-
-    # Implement more robust time synchronization
     max_sync_attempts = 5
     for attempt in range(max_sync_attempts):
         time_offset = sync_time(exchange)
@@ -125,8 +123,7 @@ async def main():
     performance_analytics = PerformanceAnalytics()
 
     current_positions = {}
-    correlation_matrix = {}  # Implement correlation matrix calculation
-
+    correlation_matrix = {}  
     symbols = config['trading']['symbols']
     iteration_interval = config['trading']['iteration_interval']
 
@@ -140,14 +137,11 @@ async def main():
                      for symbol in symbols]
 
             await asyncio.gather(*tasks)
-
-            # Log performance metrics
             metrics = performance_analytics.calculate_metrics()
             logging.info(f"Performance Summary:\n{metrics}")
 
         except Exception as e:
             logging.error(f"Error in main loop: {e}", exc_info=True)
-
         await asyncio.sleep(iteration_interval)
 
 
