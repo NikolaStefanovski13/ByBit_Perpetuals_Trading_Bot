@@ -1,7 +1,7 @@
 exchange:
   id: 'bybit'
-  api_key: 'Mj1HgQATwxQaMILqDE'
-  secret: '2ZSCiFbF8cBvpXZ0DtBEN6fYXk4q9opY3gpC'
+  api_key: 'your api key'
+  secret: 'your secret code'
   options:
     defaultType: 'linear'
     url: 'https://api.bybit.com'
