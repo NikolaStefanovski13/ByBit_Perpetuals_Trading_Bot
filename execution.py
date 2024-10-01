@@ -19,32 +19,32 @@ class Execution:
                     time.sleep(self.retry_delay)
                     continue
 
-                # Set leverage
+                #  leverage
                 leverage = self.config['risk_management']['leverage']
                 await self.exchange.set_leverage(leverage, symbol)
 
-                # Place the main order
+                #  main order
                 order = await self.exchange.create_order(symbol, 'market', side, qty)
                 logging.info(f"Main order placed successfully: {order}")
 
-                # Place stop loss order
+                # stop loss order
                 stop_loss_order = await self.exchange.create_order(
                     symbol, 'stop', 'sell' if side == 'buy' else 'buy', qty,
                     None, {'stopPrice': stop_loss}
                 )
                 logging.info(f"Stop loss order placed: {stop_loss_order}")
 
-                # Place take profit order
+                #  take profit order
                 take_profit_order = await self.exchange.create_order(
                     symbol, 'limit', 'sell' if side == 'buy' else 'buy', qty,
                     take_profit, {'type': 'takeProfit'}
                 )
                 logging.info(f"Take profit order placed: {take_profit_order}")
 
-                # Introduce a delay to allow order processing
-                time.sleep(5)  # Adjust the delay if necessary
+                # delay to allow order processing
+                time.sleep(5)  # delay if necessary
 
-                # Fetch the order status
+                # fetch the order status
                 order_status = await self._fetch_order_status(order['id'], symbol)
                 logging.info(f"Fetched order status: {order_status}")
 
@@ -66,12 +66,12 @@ class Execution:
     async def _fetch_order_status(self, order_id: str, symbol: str) -> Dict[str, Any]:
         """Fetch the complete status of the order using the appropriate method."""
         try:
-            # Fetch open orders and check if the order is among them
+            # fetch open orders and check if the order is among them
             open_orders = await self.exchange.fetch_open_orders(symbol)
             logging.debug(f"Open orders: {open_orders}")
             order_status = next((order for order in open_orders if order['id'] == order_id), None)
 
-            # If not found in open orders, fetch closed orders
+            # if not found in open orders, fetch closed orders
             if not order_status:
                 closed_orders = await self.exchange.fetch_closed_orders(symbol)
                 logging.debug(f"Closed orders: {closed_orders}")
